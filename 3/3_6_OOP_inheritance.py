@@ -52,3 +52,6 @@ print(my_phone.color)
 
 sofa_1 = Sofa('big sofa', 23455, 'red', 'leather')
 print(sofa_1)
+
+
+
